@@ -1,0 +1,10 @@
+../Core/Src/main.c:70:6:Read_accel_temp_gyro	24	static
+../Core/Src/main.c:83:6:Read_mag	24	static
+../Core/Src/main.c:91:6:Read_baro	24	static
+../Core/Src/main.c:99:6:uart_output	360	static
+../Core/Src/main.c:123:5:main	8	static
+../Core/Src/main.c:175:6:SystemClock_Config	88	static
+../Core/Src/main.c:217:13:MX_I2C1_Init	8	static
+../Core/Src/main.c:251:13:MX_USART2_UART_Init	8	static
+../Core/Src/main.c:284:13:MX_GPIO_Init	16	static
+../Core/Src/main.c:305:6:Error_Handler	4	static,ignoring_inline_asm
